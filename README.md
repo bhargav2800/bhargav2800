@@ -1,16 +1,84 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bhargav2800/bhargav2800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bhargav Patel
 
-Here are some ideas to get you started:
+### Senior Full Stack & Data Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable Python backends, AI/LLM systems, and cloud-native data platforms.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhargavpatel.in-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bhargavpatel.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargavpatel2404/)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhargav.py.developer@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://bhargav-patel-tech.blogspot.com/)
+
+</div>
+
+## Engineering products that scale
+
+I am a product-minded engineer with **4+ years of experience** taking systems from architecture to production. My work sits at the intersection of backend engineering, data platforms, generative AI, and cloud infrastructure.
+
+- 🧠 Building LLM-powered products with LangChain, LlamaIndex, OpenAI, and multi-agent workflows
+- ⚙️ Designing high-performance APIs and microservices with Python, Django, FastAPI, and GraphQL
+- 📊 Creating reliable data platforms with Microsoft Fabric, PySpark, Airflow, and Power BI
+- ☁️ Shipping cloud-native infrastructure across AWS and Azure with Docker and Terraform
+- 🤝 Open to full-time roles, freelance projects, and consulting
+- 📍 Based in Ahmedabad, Gujarat, India
+
+## Selected work
+
+| Project | What I built | Core stack |
+|---|---|---|
+| [Intelligent Data Deduplication Platform](https://bhargavpatel.in/projects/data-deduplication) | ML platform that identifies and clusters duplicate records, with a feedback-driven retraining loop | FastAPI, Next.js, Python, ML |
+| [Medallion Data Platform](https://bhargavpatel.in/projects/medallion-data-platform) | Production-grade enterprise data platform delivering analytics-ready data for Power BI | Microsoft Fabric, PySpark, SQL, Power BI |
+| [AI-Driven Book Authoring Platform](https://bhargavpatel.in/projects/ai-book-authoring) | Generative-AI authoring workflow for creating, styling, and modernising long-form content | Django, PostgreSQL, LangChain, OpenAI |
+
+[Explore all projects →](https://bhargavpatel.in/projects)
+
+## Core technologies
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+
+</div>
+
+## Open-source highlights
+
+- **[GraphQL + FastAPI](https://github.com/bhargav2800/GraphQL-Fastapi)** — practical patterns for efficient, scalable GraphQL APIs on FastAPI.
+- **[Terraform AWS Services](https://github.com/bhargav2800/Terraform-AWS-Services)** — reusable infrastructure examples for EC2, S3, VPC, IAM, and RDS.
+
+## GitHub activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhargav2800&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=22c55e" alt="Bhargav's GitHub statistics" />
+<img width="49%" src="https://streak-stats.demolab.com?user=bhargav2800&theme=github-dark-blue&hide_border=true" alt="Bhargav's GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Have a challenging product or data problem?
+
+I enjoy turning complex requirements into dependable, maintainable systems.
+
+**[View my work](https://bhargavpatel.in/projects) · [Start a conversation](https://bhargavpatel.in/contact)**
+
+</div>

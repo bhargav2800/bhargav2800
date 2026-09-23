@@ -15,7 +15,7 @@ Building scalable Python backends, AI/LLM systems, and cloud-native data platfor
 
 ## Engineering products that scale
 
-I am a product-minded engineer with **4+ years of experience** taking systems from architecture to production. My work sits at the intersection of backend engineering, data platforms, generative AI, and cloud infrastructure.
+I am a product-minded engineer with **5+ years of experience** taking systems from architecture to production. My work sits at the intersection of backend engineering, data platforms, generative AI, and cloud infrastructure.
 
 - 🧠 Building LLM-powered products with LangChain, LlamaIndex, OpenAI, and multi-agent workflows
 - ⚙️ Designing high-performance APIs and microservices with Python, Django, FastAPI, and GraphQL

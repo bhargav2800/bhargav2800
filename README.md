@@ -66,8 +66,7 @@ I am a product-minded engineer with **5+ years of experience** taking systems fr
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhargav2800&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=22c55e" alt="Bhargav's GitHub statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=bhargav2800&theme=github-dark-blue&hide_border=true" alt="Bhargav's GitHub streak" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhargav2800&theme=github_dark" alt="Bhargav Patel's GitHub contribution summary" />
 
 </div>
 
